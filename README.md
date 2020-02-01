@@ -4,4 +4,5 @@
 
 * use requirements.txt (pip) or environment.yml (conda) to setup the python environment.
   * use conda where OS files (e.g., proj) are also needed
-* postBuild: to download (wget) additional files you may need within your virtual environment
+* postBuild: run code after build
+  * e.g., download (wget) additional files you may need within your virtual environment
