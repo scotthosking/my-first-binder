@@ -6,3 +6,5 @@
   * use conda where OS files (e.g., proj) are also needed
 * postBuild: run code after build
   * e.g., download (wget) additional files you may need within your virtual environment
+
+[![photo](https://raw.githubusercontent.com/scott-hosking/my-first-binder/master/BoostReproducibilityBinder_BAS_2020-01-31.jpg)](https://raw.githubusercontent.com/scott-hosking/my-first-binder/master/BoostReproducibilityBinder_BAS_2020-01-31.jpg)
