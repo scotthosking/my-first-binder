@@ -3,7 +3,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/scott-hosking/my-first-binder/master)
 
 ## In a nutshell...
-* Binder is cool
+* [Binder](https://mybinder.org/) is cool
 * use requirements.txt (for pip) or environment.yml (for conda) to setup the python environment.
   * use conda where OS files (e.g., proj for Cartopy) are also needed
 * postBuild: run code after build
