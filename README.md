@@ -1,6 +1,6 @@
 # my-first-binder
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/scott-hosking/my-first-binder/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/scotthosking/my-first-binder/master)
 
 ## In a nutshell...
 * [Binder](https://mybinder.org/) is cool
