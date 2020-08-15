@@ -10,4 +10,4 @@
   * e.g., download (wget) additional files you may need within your container
 
 Group photo from course held at [BAS](http://www.bas.ac.uk) on the 31st Jan 2020, and led by the brilliant [Kirstie Whitaker](https://twitter.com/kirstie_j)
-[![photo](https://raw.githubusercontent.com/scott-hosking/my-first-binder/master/BoostReproducibilityBinder_BAS_2020-01-31.jpg)](https://raw.githubusercontent.com/scott-hosking/my-first-binder/master/BoostReproducibilityBinder_BAS_2020-01-31.jpg)
+[![photo](https://raw.githubusercontent.com/scotthosking/my-first-binder/master/BoostReproducibilityBinder_BAS_2020-01-31.jpg)](https://raw.githubusercontent.com/scotthosking/my-first-binder/master/BoostReproducibilityBinder_BAS_2020-01-31.jpg)
